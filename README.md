@@ -29,18 +29,6 @@ The SoTA navigation model NoMaD was trained on a self-collected dataset and have
 
 ---
 
-## Run the Project
-
-
-### Requirements
-
-
-### Setup and Installation
-
-
-### Running the Code
-
-
 ## Bibliography
 
 - NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration - https://arxiv.org/abs/2310.07896
